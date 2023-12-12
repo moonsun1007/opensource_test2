@@ -23,3 +23,7 @@ while time.time() - start_time < 5:
 # Release the webcam and close OpenCV windows
 cap.release()
 cv2.destroyAllWindows()
+
+
+
+ㅁㅁㅁ
